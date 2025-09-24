@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: group6cs442.backend.websocket.WebSocketHandlerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s -- in group6cs442.backend.websocket.WebSocketHandlerTest
